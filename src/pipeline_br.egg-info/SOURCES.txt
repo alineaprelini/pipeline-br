@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/ingestion/__init__.py
+src/ingestion/client.py
+src/ingestion/test_client.py
+src/pipeline_br.egg-info/PKG-INFO
+src/pipeline_br.egg-info/SOURCES.txt
+src/pipeline_br.egg-info/dependency_links.txt
+src/pipeline_br.egg-info/requires.txt
+src/pipeline_br.egg-info/top_level.txt
